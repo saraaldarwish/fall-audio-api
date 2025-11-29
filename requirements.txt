@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+torchvision
+librosa
+numpy
+pillow
+python-multipart
+soundfile
